@@ -1,0 +1,10 @@
+﻿Receipt Number : 47213527 | Receipt Date : 9 August 2022 | Receipt Amount : $20.89 | Sum : $20.89
+Receipt Number : 58462358 | Receipt Date : 23 August 2022 | Receipt Amount : $79.66 | Sum : $100.55
+Receipt Number : 78496352 | Receipt Date : 10 March 2023 | Receipt Amount : $84.64 | Sum : $185.19
+Receipt Number : 98598969 | Receipt Date : 16 May 2023 | Receipt Amount : $52.64 | Sum : $237.82999999999998
+Receipt Number : 85475826 | Receipt Date : 23 November 2023 | Receipt Amount : $11 | Sum : $248.82999999999998
+Receipt Number : 89658754 | Receipt Date : 4 July 2023 | Receipt Amount : $110.5 | Sum : $359.33
+Receipt Number : 84758496 | Receipt Date : 20 January 2023 | Receipt Amount : $36.33 | Sum : $395.65999999999997
+Receipt Number : 74859625 | Receipt Date : 25 February 2023 | Receipt Amount : $101.4 | Sum : $497.05999999999995
+Receipt Number : 95682635 | Receipt Date : 3 October 2023 | Receipt Amount : $9.25 | Sum : $506.30999999999995
+Receipt Number : 78452569 | Receipt Date : 6 April 2023 | Receipt Amount : $70 | Sum : $576.31
