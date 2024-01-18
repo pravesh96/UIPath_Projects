@@ -4,11 +4,9 @@
   "description": "Robot7_EmailAutomation",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.0-preview]",
     "UiPath.Mail.Activities": "[1.21.1]",
     "UiPath.System.Activities": "[23.12.0-preview]",
-    "UiPath.Testing.Activities": "[23.12.0-preview]",
-    "UiPath.UIAutomation.Activities": "[23.10.8]"
+    "UiPath.Testing.Activities": "[23.12.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
